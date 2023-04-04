@@ -35,8 +35,6 @@
   <a href = "mailto:emanuelthadeu45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-conrado-62a487219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![snake gif](https://github.com/xxDuel/xxDuel/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 
@@ -45,3 +43,5 @@
 - 🤔 I’m looking for help with Unreal Engine 5, C++ and Blueprint
 - 💬 Ask me about me
 - 📫 How to reach me: you can't
+
+![snake gif](https://github.com/xxDuel/xxDuel/blob/output/github-contribution-grid-snake.svg)
