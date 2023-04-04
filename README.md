@@ -1,7 +1,6 @@
-### Salve! My name is Emanuel.
 
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+<h2> Salve! My name is Emanuel.</h2>
 </div>
 </br>
 <div align="center">
