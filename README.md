@@ -42,3 +42,5 @@
 - 🤔 I’m looking for help with Unreal Engine 5, C++ and Blueprint
 - 💬 Ask me about me
 - 📫 How to reach me: you can't
+
+![snake gif](https://github.com/xxDuel/xxDuel/blob/output/github-contribution-grid-snake.svg)
