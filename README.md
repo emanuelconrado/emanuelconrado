@@ -34,8 +34,3 @@
   <a href="https://www.linkedin.com/in/emanuel-conrado-62a487219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-- 🔭 I’m currently working on "trying to do better"
-- 🌱 I’m currently learning C++, HTML and CSS
-- 🤔 I’m looking for help with Unreal Engine 5, C++ and Blueprint
