@@ -39,5 +39,3 @@
 - 🔭 I’m currently working on "trying to do better"
 - 🌱 I’m currently learning C++, HTML and CSS
 - 🤔 I’m looking for help with Unreal Engine 5, C++ and Blueprint
-
-![snake gif](https://github.com/emanuelconrado/emanuelconrado/blob/output/github-contribution-grid-snake.svg)
