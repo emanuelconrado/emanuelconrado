@@ -5,8 +5,8 @@
 </br>
 <div align="center">
   <div align="center">
-  <a href="https://github.com/xxduel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxduel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/emanuelconrado">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelconrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
   <div align="center">
@@ -14,7 +14,7 @@
 </div>
 </br>
  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xxDuel/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/emanuelconrado/count.svg" /></p>
 
 
 <div style="display: inline_block"><br>
@@ -40,4 +40,4 @@
 - 🌱 I’m currently learning C++, HTML and CSS
 - 🤔 I’m looking for help with Unreal Engine 5, C++ and Blueprint
 
-![snake gif](https://github.com/xxDuel/xxDuel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/emanuelconrado/emanuelconrado/blob/output/github-contribution-grid-snake.svg)
